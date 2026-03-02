@@ -1,0 +1,15 @@
+C:\tecnicas-II\Arrays\bin\Debug\net9.0\Arrays.exe
+C:\tecnicas-II\Arrays\bin\Debug\net9.0\Arrays.deps.json
+C:\tecnicas-II\Arrays\bin\Debug\net9.0\Arrays.runtimeconfig.json
+C:\tecnicas-II\Arrays\bin\Debug\net9.0\Arrays.dll
+C:\tecnicas-II\Arrays\bin\Debug\net9.0\Arrays.pdb
+C:\tecnicas-II\Arrays\obj\Debug\net9.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\tecnicas-II\Arrays\obj\Debug\net9.0\Arrays.AssemblyInfoInputs.cache
+C:\tecnicas-II\Arrays\obj\Debug\net9.0\Arrays.AssemblyInfo.cs
+C:\tecnicas-II\Arrays\obj\Debug\net9.0\Arrays.csproj.CoreCompileInputs.cache
+C:\tecnicas-II\Arrays\obj\Debug\net9.0\Arrays.sourcelink.json
+C:\tecnicas-II\Arrays\obj\Debug\net9.0\Arrays.dll
+C:\tecnicas-II\Arrays\obj\Debug\net9.0\refint\Arrays.dll
+C:\tecnicas-II\Arrays\obj\Debug\net9.0\Arrays.pdb
+C:\tecnicas-II\Arrays\obj\Debug\net9.0\Arrays.genruntimeconfig.cache
+C:\tecnicas-II\Arrays\obj\Debug\net9.0\ref\Arrays.dll

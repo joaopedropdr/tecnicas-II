@@ -1,0 +1,15 @@
+C:\tecnicas-II\Lists\bin\Debug\net9.0\Lists.exe
+C:\tecnicas-II\Lists\bin\Debug\net9.0\Lists.deps.json
+C:\tecnicas-II\Lists\bin\Debug\net9.0\Lists.runtimeconfig.json
+C:\tecnicas-II\Lists\bin\Debug\net9.0\Lists.dll
+C:\tecnicas-II\Lists\bin\Debug\net9.0\Lists.pdb
+C:\tecnicas-II\Lists\obj\Debug\net9.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\tecnicas-II\Lists\obj\Debug\net9.0\Lists.AssemblyInfoInputs.cache
+C:\tecnicas-II\Lists\obj\Debug\net9.0\Lists.AssemblyInfo.cs
+C:\tecnicas-II\Lists\obj\Debug\net9.0\Lists.csproj.CoreCompileInputs.cache
+C:\tecnicas-II\Lists\obj\Debug\net9.0\Lists.sourcelink.json
+C:\tecnicas-II\Lists\obj\Debug\net9.0\Lists.dll
+C:\tecnicas-II\Lists\obj\Debug\net9.0\refint\Lists.dll
+C:\tecnicas-II\Lists\obj\Debug\net9.0\Lists.pdb
+C:\tecnicas-II\Lists\obj\Debug\net9.0\Lists.genruntimeconfig.cache
+C:\tecnicas-II\Lists\obj\Debug\net9.0\ref\Lists.dll

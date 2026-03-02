@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\0201392511022\\source\\repos\\OrientaçãoObjetos\\OrientaçãoObjetos.csproj": {}
+    "C:\\tecnicas-II\\OrientaçãoObjetos\\OrientaçãoObjetos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\0201392511022\\source\\repos\\OrientaçãoObjetos\\OrientaçãoObjetos.csproj": {
+    "C:\\tecnicas-II\\OrientaçãoObjetos\\OrientaçãoObjetos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\0201392511022\\source\\repos\\OrientaçãoObjetos\\OrientaçãoObjetos.csproj",
+        "projectUniqueName": "C:\\tecnicas-II\\OrientaçãoObjetos\\OrientaçãoObjetos.csproj",
         "projectName": "OrientaçãoObjetos",
-        "projectPath": "C:\\Users\\0201392511022\\source\\repos\\OrientaçãoObjetos\\OrientaçãoObjetos.csproj",
+        "projectPath": "C:\\tecnicas-II\\OrientaçãoObjetos\\OrientaçãoObjetos.csproj",
         "packagesPath": "C:\\Users\\0201392511022\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\0201392511022\\source\\repos\\OrientaçãoObjetos\\obj\\",
+        "outputPath": "C:\\tecnicas-II\\OrientaçãoObjetos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
