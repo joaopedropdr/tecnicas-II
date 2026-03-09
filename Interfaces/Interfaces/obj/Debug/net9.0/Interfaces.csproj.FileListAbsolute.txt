@@ -1,0 +1,15 @@
+C:\tecnicas-II\Interfaces\Interfaces\bin\Debug\net9.0\Interfaces.exe
+C:\tecnicas-II\Interfaces\Interfaces\bin\Debug\net9.0\Interfaces.deps.json
+C:\tecnicas-II\Interfaces\Interfaces\bin\Debug\net9.0\Interfaces.runtimeconfig.json
+C:\tecnicas-II\Interfaces\Interfaces\bin\Debug\net9.0\Interfaces.dll
+C:\tecnicas-II\Interfaces\Interfaces\bin\Debug\net9.0\Interfaces.pdb
+C:\tecnicas-II\Interfaces\Interfaces\obj\Debug\net9.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\tecnicas-II\Interfaces\Interfaces\obj\Debug\net9.0\Interfaces.AssemblyInfoInputs.cache
+C:\tecnicas-II\Interfaces\Interfaces\obj\Debug\net9.0\Interfaces.AssemblyInfo.cs
+C:\tecnicas-II\Interfaces\Interfaces\obj\Debug\net9.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\tecnicas-II\Interfaces\Interfaces\obj\Debug\net9.0\Interfaces.sourcelink.json
+C:\tecnicas-II\Interfaces\Interfaces\obj\Debug\net9.0\Interfaces.dll
+C:\tecnicas-II\Interfaces\Interfaces\obj\Debug\net9.0\refint\Interfaces.dll
+C:\tecnicas-II\Interfaces\Interfaces\obj\Debug\net9.0\Interfaces.pdb
+C:\tecnicas-II\Interfaces\Interfaces\obj\Debug\net9.0\Interfaces.genruntimeconfig.cache
+C:\tecnicas-II\Interfaces\Interfaces\obj\Debug\net9.0\ref\Interfaces.dll

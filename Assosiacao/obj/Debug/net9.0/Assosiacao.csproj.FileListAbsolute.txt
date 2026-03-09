@@ -1,0 +1,15 @@
+C:\tecnicas-II\Assosiacao\bin\Debug\net9.0\Assosiacao.exe
+C:\tecnicas-II\Assosiacao\bin\Debug\net9.0\Assosiacao.deps.json
+C:\tecnicas-II\Assosiacao\bin\Debug\net9.0\Assosiacao.runtimeconfig.json
+C:\tecnicas-II\Assosiacao\bin\Debug\net9.0\Assosiacao.dll
+C:\tecnicas-II\Assosiacao\bin\Debug\net9.0\Assosiacao.pdb
+C:\tecnicas-II\Assosiacao\obj\Debug\net9.0\Assosiacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\tecnicas-II\Assosiacao\obj\Debug\net9.0\Assosiacao.AssemblyInfoInputs.cache
+C:\tecnicas-II\Assosiacao\obj\Debug\net9.0\Assosiacao.AssemblyInfo.cs
+C:\tecnicas-II\Assosiacao\obj\Debug\net9.0\Assosiacao.csproj.CoreCompileInputs.cache
+C:\tecnicas-II\Assosiacao\obj\Debug\net9.0\Assosiacao.sourcelink.json
+C:\tecnicas-II\Assosiacao\obj\Debug\net9.0\Assosiacao.dll
+C:\tecnicas-II\Assosiacao\obj\Debug\net9.0\refint\Assosiacao.dll
+C:\tecnicas-II\Assosiacao\obj\Debug\net9.0\Assosiacao.pdb
+C:\tecnicas-II\Assosiacao\obj\Debug\net9.0\Assosiacao.genruntimeconfig.cache
+C:\tecnicas-II\Assosiacao\obj\Debug\net9.0\ref\Assosiacao.dll

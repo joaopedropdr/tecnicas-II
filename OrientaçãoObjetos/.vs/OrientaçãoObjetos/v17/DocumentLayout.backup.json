@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\tecnicas-II\\Orienta\u00E7\u00E3oObjetos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BD7AD15E-637F-4FB8-9E3F-4608FFBFAA11}|..\\Composicao\\Composicao.csproj|c:\\tecnicas-ii\\composicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{19E7F37A-57A1-4630-9D93-22E692CD59FC}|..\\Assosiacao\\Assosiacao.csproj|c:\\tecnicas-ii\\assosiacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -39,18 +42,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\tecnicas-II\\Composicao\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Composicao\\Program.cs",
+              "ToolTip": "C:\\tecnicas-II\\Composicao\\Program.cs",
+              "RelativeToolTip": "..\\Composicao\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T11:50:05.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\tecnicas-II\\Assosiacao\\Program.cs",
               "RelativeDocumentMoniker": "..\\Assosiacao\\Program.cs",
               "ToolTip": "C:\\tecnicas-II\\Assosiacao\\Program.cs",
               "RelativeToolTip": "..\\Assosiacao\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T13:51:22.854Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\tecnicas-II\\Lists\\Program.cs",
               "RelativeDocumentMoniker": "..\\Lists\\Program.cs",
@@ -58,12 +74,11 @@
               "RelativeToolTip": "..\\Lists\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T13:22:14.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T13:22:14.732Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\tecnicas-II\\ArrayList\\Program.cs",
               "RelativeDocumentMoniker": "..\\ArrayList\\Program.cs",
@@ -75,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\tecnicas-II\\Arrays\\Program.cs",
               "RelativeDocumentMoniker": "..\\Arrays\\Program.cs",
@@ -87,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\0201392511022\\source\\repos\\Heranca\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\Users\\0201392511022\\source\\repos\\Heranca\\Program.cs",
@@ -99,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program2.cs",
               "DocumentMoniker": "C:\\tecnicas-II\\Orienta\u00E7\u00E3oObjetos\\Program2.cs",
               "RelativeDocumentMoniker": "Program2.cs",
@@ -111,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\tecnicas-II\\Orienta\u00E7\u00E3oObjetos\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -120,10 +135,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-23T12:05:43.883Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

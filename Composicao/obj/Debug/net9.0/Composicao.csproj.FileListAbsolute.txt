@@ -1,0 +1,15 @@
+C:\tecnicas-II\Composicao\bin\Debug\net9.0\Composicao.exe
+C:\tecnicas-II\Composicao\bin\Debug\net9.0\Composicao.deps.json
+C:\tecnicas-II\Composicao\bin\Debug\net9.0\Composicao.runtimeconfig.json
+C:\tecnicas-II\Composicao\bin\Debug\net9.0\Composicao.dll
+C:\tecnicas-II\Composicao\bin\Debug\net9.0\Composicao.pdb
+C:\tecnicas-II\Composicao\obj\Debug\net9.0\Composicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\tecnicas-II\Composicao\obj\Debug\net9.0\Composicao.AssemblyInfoInputs.cache
+C:\tecnicas-II\Composicao\obj\Debug\net9.0\Composicao.AssemblyInfo.cs
+C:\tecnicas-II\Composicao\obj\Debug\net9.0\Composicao.csproj.CoreCompileInputs.cache
+C:\tecnicas-II\Composicao\obj\Debug\net9.0\Composicao.sourcelink.json
+C:\tecnicas-II\Composicao\obj\Debug\net9.0\Composicao.dll
+C:\tecnicas-II\Composicao\obj\Debug\net9.0\refint\Composicao.dll
+C:\tecnicas-II\Composicao\obj\Debug\net9.0\Composicao.pdb
+C:\tecnicas-II\Composicao\obj\Debug\net9.0\Composicao.genruntimeconfig.cache
+C:\tecnicas-II\Composicao\obj\Debug\net9.0\ref\Composicao.dll

@@ -14,9 +14,14 @@ Fornecedor for2 = new("empresa 2", "555.44411/0001-44");
 Produto prod2 = new("Produto 2", 10.50);
 Produto prod3 = new("Produto 3", 10.50);
 
-prod2.Fornecedores.Add(for2);
+prod2.Fornecedores.Add(for1);
 prod3.Fornecedores.Add(for2);
 
+Console.WriteLine($"Nome: {prod1.Nome}\n Preço: {prod1.Preco}\n Categoria: {prod1.CategoriaProduto}");
+foreach(var dado in prod1.Fornecedores)
+{
+    Console.WriteLine($"Nome: {dado.RazaoSocial}\n Cnpj: {dado.Cnpj}");
+}
 
 public class Produto
 {
