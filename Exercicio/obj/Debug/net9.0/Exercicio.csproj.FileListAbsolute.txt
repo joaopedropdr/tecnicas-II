@@ -1,0 +1,4 @@
+D:\faculdade\tecnicas-II\Exercicio\obj\Debug\net9.0\Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+D:\faculdade\tecnicas-II\Exercicio\obj\Debug\net9.0\Exercicio.AssemblyInfoInputs.cache
+D:\faculdade\tecnicas-II\Exercicio\obj\Debug\net9.0\Exercicio.AssemblyInfo.cs
+D:\faculdade\tecnicas-II\Exercicio\obj\Debug\net9.0\Exercicio.csproj.CoreCompileInputs.cache
