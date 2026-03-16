@@ -1,0 +1,15 @@
+C:\tecnicas-II\Enumerable\Enumerable\bin\Debug\net9.0\Enumerable.exe
+C:\tecnicas-II\Enumerable\Enumerable\bin\Debug\net9.0\Enumerable.deps.json
+C:\tecnicas-II\Enumerable\Enumerable\bin\Debug\net9.0\Enumerable.runtimeconfig.json
+C:\tecnicas-II\Enumerable\Enumerable\bin\Debug\net9.0\Enumerable.dll
+C:\tecnicas-II\Enumerable\Enumerable\bin\Debug\net9.0\Enumerable.pdb
+C:\tecnicas-II\Enumerable\Enumerable\obj\Debug\net9.0\Enumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\tecnicas-II\Enumerable\Enumerable\obj\Debug\net9.0\Enumerable.AssemblyInfoInputs.cache
+C:\tecnicas-II\Enumerable\Enumerable\obj\Debug\net9.0\Enumerable.AssemblyInfo.cs
+C:\tecnicas-II\Enumerable\Enumerable\obj\Debug\net9.0\Enumerable.csproj.CoreCompileInputs.cache
+C:\tecnicas-II\Enumerable\Enumerable\obj\Debug\net9.0\Enumerable.sourcelink.json
+C:\tecnicas-II\Enumerable\Enumerable\obj\Debug\net9.0\Enumerable.dll
+C:\tecnicas-II\Enumerable\Enumerable\obj\Debug\net9.0\refint\Enumerable.dll
+C:\tecnicas-II\Enumerable\Enumerable\obj\Debug\net9.0\Enumerable.pdb
+C:\tecnicas-II\Enumerable\Enumerable\obj\Debug\net9.0\Enumerable.genruntimeconfig.cache
+C:\tecnicas-II\Enumerable\Enumerable\obj\Debug\net9.0\ref\Enumerable.dll
