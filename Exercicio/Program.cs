@@ -37,11 +37,9 @@ public class Fabrica
             {
                 Maquina? modeloEncontrado = new Maquina(maquina.Modelo, maquina.HoraOperacao, maquina.NumeroSerie, maquina.Nome, maquina.DataFabricacao);
                 return modeloEncontrado;
-            } else
-            {
-                return null;
-            }
+            } 
         }
+        return null;
     }
     public string? Nome { get; set; }
     public ICollection<Maquina> Maquinas = new List<Maquina>();

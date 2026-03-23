@@ -1,0 +1,15 @@
+C:\tecnicas-II\exercicioCorrigido\obj\Debug\net9.0\exercicioCorrigido.GeneratedMSBuildEditorConfig.editorconfig
+C:\tecnicas-II\exercicioCorrigido\obj\Debug\net9.0\exercicioCorrigido.AssemblyInfoInputs.cache
+C:\tecnicas-II\exercicioCorrigido\obj\Debug\net9.0\exercicioCorrigido.AssemblyInfo.cs
+C:\tecnicas-II\exercicioCorrigido\obj\Debug\net9.0\exercicioCorrigido.csproj.CoreCompileInputs.cache
+C:\tecnicas-II\exercicioCorrigido\obj\Debug\net9.0\exercicioCorrigido.sourcelink.json
+C:\tecnicas-II\exercicioCorrigido\bin\Debug\net9.0\exercicioCorrigido.exe
+C:\tecnicas-II\exercicioCorrigido\bin\Debug\net9.0\exercicioCorrigido.deps.json
+C:\tecnicas-II\exercicioCorrigido\bin\Debug\net9.0\exercicioCorrigido.runtimeconfig.json
+C:\tecnicas-II\exercicioCorrigido\bin\Debug\net9.0\exercicioCorrigido.dll
+C:\tecnicas-II\exercicioCorrigido\bin\Debug\net9.0\exercicioCorrigido.pdb
+C:\tecnicas-II\exercicioCorrigido\obj\Debug\net9.0\exercicioCorrigido.dll
+C:\tecnicas-II\exercicioCorrigido\obj\Debug\net9.0\refint\exercicioCorrigido.dll
+C:\tecnicas-II\exercicioCorrigido\obj\Debug\net9.0\exercicioCorrigido.pdb
+C:\tecnicas-II\exercicioCorrigido\obj\Debug\net9.0\exercicioCorrigido.genruntimeconfig.cache
+C:\tecnicas-II\exercicioCorrigido\obj\Debug\net9.0\ref\exercicioCorrigido.dll
