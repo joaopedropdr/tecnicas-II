@@ -1,0 +1,15 @@
+C:\tecnicas-II\Exceção\Exceção\bin\Debug\net9.0\Exceção.exe
+C:\tecnicas-II\Exceção\Exceção\bin\Debug\net9.0\Exceção.deps.json
+C:\tecnicas-II\Exceção\Exceção\bin\Debug\net9.0\Exceção.runtimeconfig.json
+C:\tecnicas-II\Exceção\Exceção\bin\Debug\net9.0\Exceção.dll
+C:\tecnicas-II\Exceção\Exceção\bin\Debug\net9.0\Exceção.pdb
+C:\tecnicas-II\Exceção\Exceção\obj\Debug\net9.0\Exceção.GeneratedMSBuildEditorConfig.editorconfig
+C:\tecnicas-II\Exceção\Exceção\obj\Debug\net9.0\Exceção.AssemblyInfoInputs.cache
+C:\tecnicas-II\Exceção\Exceção\obj\Debug\net9.0\Exceção.AssemblyInfo.cs
+C:\tecnicas-II\Exceção\Exceção\obj\Debug\net9.0\Exceção.csproj.CoreCompileInputs.cache
+C:\tecnicas-II\Exceção\Exceção\obj\Debug\net9.0\Exceção.sourcelink.json
+C:\tecnicas-II\Exceção\Exceção\obj\Debug\net9.0\Exceção.dll
+C:\tecnicas-II\Exceção\Exceção\obj\Debug\net9.0\refint\Exceção.dll
+C:\tecnicas-II\Exceção\Exceção\obj\Debug\net9.0\Exceção.pdb
+C:\tecnicas-II\Exceção\Exceção\obj\Debug\net9.0\Exceção.genruntimeconfig.cache
+C:\tecnicas-II\Exceção\Exceção\obj\Debug\net9.0\ref\Exceção.dll

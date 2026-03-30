@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\tecnicas-II\\Exce\u00E7\u00E3o\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E64AF49-D141-4211-B24F-757D8D2ADB45}|Personalizada\\Personalizada.csproj|c:\\tecnicas-ii\\exce\u00E7\u00E3o\\personalizada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E64AF49-D141-4211-B24F-757D8D2ADB45}|Personalizada\\Personalizada.csproj|solutionrelative:personalizada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3825367-4573-4F18-BD8F-D402A3FCF96A}|Throw\\Throw.csproj|c:\\tecnicas-ii\\exce\u00E7\u00E3o\\throw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3825367-4573-4F18-BD8F-D402A3FCF96A}|Throw\\Throw.csproj|solutionrelative:throw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5A6872-769C-4111-988F-C40741DCE892}|Exce\u00E7\u00E3o\\Exce\u00E7\u00E3o.csproj|c:\\tecnicas-ii\\exce\u00E7\u00E3o\\exce\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5A6872-769C-4111-988F-C40741DCE892}|Exce\u00E7\u00E3o\\Exce\u00E7\u00E3o.csproj|solutionrelative:exce\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\tecnicas-II\\Exce\u00E7\u00E3o\\Personalizada\\Program.cs",
+              "RelativeDocumentMoniker": "Personalizada\\Program.cs",
+              "ToolTip": "C:\\tecnicas-II\\Exce\u00E7\u00E3o\\Personalizada\\Program.cs",
+              "RelativeToolTip": "Personalizada\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T13:35:26.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\tecnicas-II\\Exce\u00E7\u00E3o\\Throw\\Program.cs",
+              "RelativeDocumentMoniker": "Throw\\Program.cs",
+              "ToolTip": "C:\\tecnicas-II\\Exce\u00E7\u00E3o\\Throw\\Program.cs",
+              "RelativeToolTip": "Throw\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T13:14:57.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\tecnicas-II\\Exce\u00E7\u00E3o\\Exce\u00E7\u00E3o\\Program.cs",
+              "RelativeDocumentMoniker": "Exce\u00E7\u00E3o\\Program.cs",
+              "ToolTip": "C:\\tecnicas-II\\Exce\u00E7\u00E3o\\Exce\u00E7\u00E3o\\Program.cs",
+              "RelativeToolTip": "Exce\u00E7\u00E3o\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T12:45:36.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

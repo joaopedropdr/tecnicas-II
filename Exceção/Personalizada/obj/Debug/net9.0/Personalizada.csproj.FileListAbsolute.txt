@@ -1,0 +1,15 @@
+C:\tecnicas-II\Exceção\Personalizada\obj\Debug\net9.0\Personalizada.GeneratedMSBuildEditorConfig.editorconfig
+C:\tecnicas-II\Exceção\Personalizada\obj\Debug\net9.0\Personalizada.AssemblyInfoInputs.cache
+C:\tecnicas-II\Exceção\Personalizada\obj\Debug\net9.0\Personalizada.AssemblyInfo.cs
+C:\tecnicas-II\Exceção\Personalizada\obj\Debug\net9.0\Personalizada.csproj.CoreCompileInputs.cache
+C:\tecnicas-II\Exceção\Personalizada\obj\Debug\net9.0\Personalizada.sourcelink.json
+C:\tecnicas-II\Exceção\Personalizada\bin\Debug\net9.0\Personalizada.exe
+C:\tecnicas-II\Exceção\Personalizada\bin\Debug\net9.0\Personalizada.deps.json
+C:\tecnicas-II\Exceção\Personalizada\bin\Debug\net9.0\Personalizada.runtimeconfig.json
+C:\tecnicas-II\Exceção\Personalizada\bin\Debug\net9.0\Personalizada.dll
+C:\tecnicas-II\Exceção\Personalizada\bin\Debug\net9.0\Personalizada.pdb
+C:\tecnicas-II\Exceção\Personalizada\obj\Debug\net9.0\Personalizada.dll
+C:\tecnicas-II\Exceção\Personalizada\obj\Debug\net9.0\refint\Personalizada.dll
+C:\tecnicas-II\Exceção\Personalizada\obj\Debug\net9.0\Personalizada.pdb
+C:\tecnicas-II\Exceção\Personalizada\obj\Debug\net9.0\Personalizada.genruntimeconfig.cache
+C:\tecnicas-II\Exceção\Personalizada\obj\Debug\net9.0\ref\Personalizada.dll

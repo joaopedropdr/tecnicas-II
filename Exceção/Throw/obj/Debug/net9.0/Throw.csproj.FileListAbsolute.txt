@@ -1,0 +1,15 @@
+C:\tecnicas-II\Exceção\Throw\bin\Debug\net9.0\Throw.exe
+C:\tecnicas-II\Exceção\Throw\bin\Debug\net9.0\Throw.deps.json
+C:\tecnicas-II\Exceção\Throw\bin\Debug\net9.0\Throw.runtimeconfig.json
+C:\tecnicas-II\Exceção\Throw\bin\Debug\net9.0\Throw.dll
+C:\tecnicas-II\Exceção\Throw\bin\Debug\net9.0\Throw.pdb
+C:\tecnicas-II\Exceção\Throw\obj\Debug\net9.0\Throw.GeneratedMSBuildEditorConfig.editorconfig
+C:\tecnicas-II\Exceção\Throw\obj\Debug\net9.0\Throw.AssemblyInfoInputs.cache
+C:\tecnicas-II\Exceção\Throw\obj\Debug\net9.0\Throw.AssemblyInfo.cs
+C:\tecnicas-II\Exceção\Throw\obj\Debug\net9.0\Throw.csproj.CoreCompileInputs.cache
+C:\tecnicas-II\Exceção\Throw\obj\Debug\net9.0\Throw.sourcelink.json
+C:\tecnicas-II\Exceção\Throw\obj\Debug\net9.0\Throw.dll
+C:\tecnicas-II\Exceção\Throw\obj\Debug\net9.0\refint\Throw.dll
+C:\tecnicas-II\Exceção\Throw\obj\Debug\net9.0\Throw.pdb
+C:\tecnicas-II\Exceção\Throw\obj\Debug\net9.0\Throw.genruntimeconfig.cache
+C:\tecnicas-II\Exceção\Throw\obj\Debug\net9.0\ref\Throw.dll
