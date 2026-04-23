@@ -1,0 +1,15 @@
+C:\Programação\tecnicas-II\Exercicios-Linq\Exercicio4\bin\Debug\net9.0\Exercicio4.exe
+C:\Programação\tecnicas-II\Exercicios-Linq\Exercicio4\bin\Debug\net9.0\Exercicio4.deps.json
+C:\Programação\tecnicas-II\Exercicios-Linq\Exercicio4\bin\Debug\net9.0\Exercicio4.runtimeconfig.json
+C:\Programação\tecnicas-II\Exercicios-Linq\Exercicio4\bin\Debug\net9.0\Exercicio4.dll
+C:\Programação\tecnicas-II\Exercicios-Linq\Exercicio4\bin\Debug\net9.0\Exercicio4.pdb
+C:\Programação\tecnicas-II\Exercicios-Linq\Exercicio4\obj\Debug\net9.0\Exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\tecnicas-II\Exercicios-Linq\Exercicio4\obj\Debug\net9.0\Exercicio4.AssemblyInfoInputs.cache
+C:\Programação\tecnicas-II\Exercicios-Linq\Exercicio4\obj\Debug\net9.0\Exercicio4.AssemblyInfo.cs
+C:\Programação\tecnicas-II\Exercicios-Linq\Exercicio4\obj\Debug\net9.0\Exercicio4.csproj.CoreCompileInputs.cache
+C:\Programação\tecnicas-II\Exercicios-Linq\Exercicio4\obj\Debug\net9.0\Exercicio4.sourcelink.json
+C:\Programação\tecnicas-II\Exercicios-Linq\Exercicio4\obj\Debug\net9.0\Exercicio4.dll
+C:\Programação\tecnicas-II\Exercicios-Linq\Exercicio4\obj\Debug\net9.0\refint\Exercicio4.dll
+C:\Programação\tecnicas-II\Exercicios-Linq\Exercicio4\obj\Debug\net9.0\Exercicio4.pdb
+C:\Programação\tecnicas-II\Exercicios-Linq\Exercicio4\obj\Debug\net9.0\Exercicio4.genruntimeconfig.cache
+C:\Programação\tecnicas-II\Exercicios-Linq\Exercicio4\obj\Debug\net9.0\ref\Exercicio4.dll
