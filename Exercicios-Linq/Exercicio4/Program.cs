@@ -27,6 +27,7 @@ List<Pedidos> pedidos = new List<Pedidos>
         };
 
 // a) Mostrar todos os pedidos agrupados pelo cliente
+Console.WriteLine("---------A---------");
 var pedidosAgrupados = pedidos.GroupBy(p => p.Cliente?.Nome).ToList();
 foreach (var grupo in pedidosAgrupados)
 {
@@ -38,6 +39,7 @@ foreach (var grupo in pedidosAgrupados)
 }
 
 // b-) Nomes dos clientes que fizeram pedidos acima de 500 reais
+Console.WriteLine("---------B---------");
 var pedidosAcima500 = pedidos.Where(p => p.Produto?.Preco > 500);
 foreach (var cli in pedidosAcima500)
 {
@@ -46,7 +48,15 @@ foreach (var cli in pedidosAcima500)
 
 
 // c-) Calcular o valor total de pedidos por cliente
-var totalPedidosCiente = pedidos.GroupBy(p => p.Quantidade);
+Console.WriteLine("---------C---------");
+var totalPedidosCiente = pedidos.GroupBy(p => p.Cliente?.Nome);
+foreach (var grupo in totalPedidosCiente)
+{
+    Console.WriteLine($"Cliente: {grupo.Key}");
+
+    double total = grupo.Sum(p => p.Produto?.Preco * p.Quantidade ?? 0);
+    Console.WriteLine($"  Total gasto do cliente: {total}"); 
+}
 
 public class Clientes
 {

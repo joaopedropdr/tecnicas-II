@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Programa\u00E7\u00E3o\\tecnicas-II\\Exercicios-Linq\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A261797B-014A-4D22-9010-A9EFCA41813C}|Exercicio4\\Exercicio4.csproj|c:\\programa\u00E7\u00E3o\\tecnicas-ii\\exercicios-linq\\exercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A261797B-014A-4D22-9010-A9EFCA41813C}|Exercicio4\\Exercicio4.csproj|solutionrelative:exercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1A5F5BB-21C1-DBF5-D0AA-810008CA89F3}|Exercicio4\\Exercicio4.csproj|c:\\programa\u00E7\u00E3o\\tecnicas-ii\\exercicios-linq\\exercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A5F5BB-21C1-DBF5-D0AA-810008CA89F3}|Exercicio4\\Exercicio4.csproj|solutionrelative:exercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EB99215-F4C9-4E17-B118-BC8ABB114116}|Exercicio3\\Exercicio3.csproj|c:\\programa\u00E7\u00E3o\\tecnicas-ii\\exercicios-linq\\exercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EB99215-F4C9-4E17-B118-BC8ABB114116}|Exercicio3\\Exercicio3.csproj|solutionrelative:exercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16EF0FAE-5B93-6497-04E1-A3F85ECFA15D}|Exercicio3\\Exercicio3.csproj|c:\\programa\u00E7\u00E3o\\tecnicas-ii\\exercicios-linq\\exercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EF0FAE-5B93-6497-04E1-A3F85ECFA15D}|Exercicio3\\Exercicio3.csproj|solutionrelative:exercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEB878D7-FBE1-4EF1-94A4-E0CEC0BA6D3F}|Exercicio2\\Exercicio2.csproj|c:\\programa\u00E7\u00E3o\\tecnicas-ii\\exercicios-linq\\exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEB878D7-FBE1-4EF1-94A4-E0CEC0BA6D3F}|Exercicio2\\Exercicio2.csproj|solutionrelative:exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F458A9B2-8DE0-E1CA-3185-B3285A107926}|Exercicio2\\Exercicio2.csproj|c:\\programa\u00E7\u00E3o\\tecnicas-ii\\exercicios-linq\\exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F458A9B2-8DE0-E1CA-3185-B3285A107926}|Exercicio2\\Exercicio2.csproj|solutionrelative:exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E51BEE4-3012-4D34-81BF-00BD11F73110}|Exercicio1\\Exercicio1.csproj|c:\\programa\u00E7\u00E3o\\tecnicas-ii\\exercicios-linq\\exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E51BEE4-3012-4D34-81BF-00BD11F73110}|Exercicio1\\Exercicio1.csproj|solutionrelative:exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4504F049-85E0-009B-FDC7-8B9A1213A96E}|Exercicio1\\Exercicio1.csproj|c:\\programa\u00E7\u00E3o\\tecnicas-ii\\exercicios-linq\\exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4504F049-85E0-009B-FDC7-8B9A1213A96E}|Exercicio1\\Exercicio1.csproj|solutionrelative:exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Exercicio4\\Program.cs",
               "ToolTip": "C:\\Programa\u00E7\u00E3o\\tecnicas-II\\Exercicios-Linq\\Exercicio4\\Program.cs",
               "RelativeToolTip": "Exercicio4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC0AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-22T22:59:53.223Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "Exercicio3\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T22:49:53.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-22T22:49:53.656Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Exercicio2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T22:19:41.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-22T22:19:41.737Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "Exercicio1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T22:12:46.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-22T22:12:46.484Z"
             }
           ]
         }
