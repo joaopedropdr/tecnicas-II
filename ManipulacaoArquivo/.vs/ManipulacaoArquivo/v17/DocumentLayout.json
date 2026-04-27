@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\tecnicas-II\\ManipulacaoArquivo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D036C4A-2B65-40AF-A478-0880C328C3C0}|Arquivos3\\Arquivos3.csproj|c:\\tecnicas-ii\\manipulacaoarquivo\\arquivos3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D036C4A-2B65-40AF-A478-0880C328C3C0}|Arquivos3\\Arquivos3.csproj|solutionrelative:arquivos3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069B9FD8-BAFF-4CFF-BFA4-412AB19A758C}|Arquivos2\\Arquivos2.csproj|c:\\tecnicas-ii\\manipulacaoarquivo\\arquivos2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069B9FD8-BAFF-4CFF-BFA4-412AB19A758C}|Arquivos2\\Arquivos2.csproj|solutionrelative:arquivos2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB9948D-BD5B-4A70-8A14-50B00700476A}|ManipulacaoArquivo\\ManipulacaoArquivo.csproj|c:\\tecnicas-ii\\manipulacaoarquivo\\manipulacaoarquivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB9948D-BD5B-4A70-8A14-50B00700476A}|ManipulacaoArquivo\\ManipulacaoArquivo.csproj|solutionrelative:manipulacaoarquivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\tecnicas-II\\ManipulacaoArquivo\\Arquivos3\\bin\\Debug\\net9.0\\pessoas.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Arquivos3\\bin\\Debug\\net9.0\\pessoas.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pessoas.json",
+              "DocumentMoniker": "C:\\tecnicas-II\\ManipulacaoArquivo\\Arquivos3\\bin\\Debug\\net9.0\\pessoas.json",
+              "RelativeDocumentMoniker": "Arquivos3\\bin\\Debug\\net9.0\\pessoas.json",
+              "ToolTip": "C:\\tecnicas-II\\ManipulacaoArquivo\\Arquivos3\\bin\\Debug\\net9.0\\pessoas.json",
+              "RelativeToolTip": "Arquivos3\\bin\\Debug\\net9.0\\pessoas.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-27T11:56:30.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\tecnicas-II\\ManipulacaoArquivo\\Arquivos3\\Program.cs",
+              "RelativeDocumentMoniker": "Arquivos3\\Program.cs",
+              "ToolTip": "C:\\tecnicas-II\\ManipulacaoArquivo\\Arquivos3\\Program.cs",
+              "RelativeToolTip": "Arquivos3\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T11:37:35.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\tecnicas-II\\ManipulacaoArquivo\\Arquivos2\\Program.cs",
+              "RelativeDocumentMoniker": "Arquivos2\\Program.cs",
+              "ToolTip": "C:\\tecnicas-II\\ManipulacaoArquivo\\Arquivos2\\Program.cs",
+              "RelativeToolTip": "Arquivos2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T11:21:48.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\tecnicas-II\\ManipulacaoArquivo\\ManipulacaoArquivo\\Program.cs",
+              "RelativeDocumentMoniker": "ManipulacaoArquivo\\Program.cs",
+              "ToolTip": "C:\\tecnicas-II\\ManipulacaoArquivo\\ManipulacaoArquivo\\Program.cs",
+              "RelativeToolTip": "ManipulacaoArquivo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T11:13:54.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

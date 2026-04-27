@@ -1,0 +1,15 @@
+C:\tecnicas-II\ManipulacaoArquivo\ManipulacaoArquivo\bin\Debug\net9.0\ManipulacaoArquivo.exe
+C:\tecnicas-II\ManipulacaoArquivo\ManipulacaoArquivo\bin\Debug\net9.0\ManipulacaoArquivo.deps.json
+C:\tecnicas-II\ManipulacaoArquivo\ManipulacaoArquivo\bin\Debug\net9.0\ManipulacaoArquivo.runtimeconfig.json
+C:\tecnicas-II\ManipulacaoArquivo\ManipulacaoArquivo\bin\Debug\net9.0\ManipulacaoArquivo.dll
+C:\tecnicas-II\ManipulacaoArquivo\ManipulacaoArquivo\bin\Debug\net9.0\ManipulacaoArquivo.pdb
+C:\tecnicas-II\ManipulacaoArquivo\ManipulacaoArquivo\obj\Debug\net9.0\ManipulacaoArquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\tecnicas-II\ManipulacaoArquivo\ManipulacaoArquivo\obj\Debug\net9.0\ManipulacaoArquivo.AssemblyInfoInputs.cache
+C:\tecnicas-II\ManipulacaoArquivo\ManipulacaoArquivo\obj\Debug\net9.0\ManipulacaoArquivo.AssemblyInfo.cs
+C:\tecnicas-II\ManipulacaoArquivo\ManipulacaoArquivo\obj\Debug\net9.0\ManipulacaoArquivo.csproj.CoreCompileInputs.cache
+C:\tecnicas-II\ManipulacaoArquivo\ManipulacaoArquivo\obj\Debug\net9.0\ManipulacaoArquivo.sourcelink.json
+C:\tecnicas-II\ManipulacaoArquivo\ManipulacaoArquivo\obj\Debug\net9.0\ManipulacaoArquivo.dll
+C:\tecnicas-II\ManipulacaoArquivo\ManipulacaoArquivo\obj\Debug\net9.0\refint\ManipulacaoArquivo.dll
+C:\tecnicas-II\ManipulacaoArquivo\ManipulacaoArquivo\obj\Debug\net9.0\ManipulacaoArquivo.pdb
+C:\tecnicas-II\ManipulacaoArquivo\ManipulacaoArquivo\obj\Debug\net9.0\ManipulacaoArquivo.genruntimeconfig.cache
+C:\tecnicas-II\ManipulacaoArquivo\ManipulacaoArquivo\obj\Debug\net9.0\ref\ManipulacaoArquivo.dll
