@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programacao\\tecnicas-II\\lista-p1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B187D02C-46A0-41CF-AACA-15C27AEDE655}|exercicio1\\exercicio1.csproj|c:\\programacao\\tecnicas-ii\\lista-p1\\exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B187D02C-46A0-41CF-AACA-15C27AEDE655}|exercicio1\\exercicio1.csproj|solutionrelative:exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B187D02C-46A0-41CF-AACA-15C27AEDE655}|exercicio1\\exercicio1.csproj|c:\\programacao\\tecnicas-ii\\lista-p1\\exercicio1\\centraldemultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B187D02C-46A0-41CF-AACA-15C27AEDE655}|exercicio1\\exercicio1.csproj|solutionrelative:exercicio1\\centraldemultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C350B8-730C-4E0D-B5E0-24981D7F404A}|Exercicio2\\Exercicio2.csproj|c:\\programacao\\tecnicas-ii\\lista-p1\\exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C350B8-730C-4E0D-B5E0-24981D7F404A}|Exercicio2\\Exercicio2.csproj|solutionrelative:exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B187D02C-46A0-41CF-AACA-15C27AEDE655}|exercicio1\\exercicio1.csproj|c:\\programacao\\tecnicas-ii\\lista-p1\\exercicio1\\multa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B187D02C-46A0-41CF-AACA-15C27AEDE655}|exercicio1\\exercicio1.csproj|solutionrelative:exercicio1\\multa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programacao\\tecnicas-II\\lista-p1\\Exercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio2\\Program.cs",
+              "ToolTip": "C:\\Programacao\\tecnicas-II\\lista-p1\\Exercicio2\\Program.cs",
+              "RelativeToolTip": "Exercicio2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T02:45:34.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CentralDeMultas.cs",
+              "DocumentMoniker": "C:\\Programacao\\tecnicas-II\\lista-p1\\exercicio1\\CentralDeMultas.cs",
+              "RelativeDocumentMoniker": "exercicio1\\CentralDeMultas.cs",
+              "ToolTip": "C:\\Programacao\\tecnicas-II\\lista-p1\\exercicio1\\CentralDeMultas.cs",
+              "RelativeToolTip": "exercicio1\\CentralDeMultas.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T13:36:15.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Multa.cs",
+              "DocumentMoniker": "C:\\Programacao\\tecnicas-II\\lista-p1\\exercicio1\\Multa.cs",
+              "RelativeDocumentMoniker": "exercicio1\\Multa.cs",
+              "ToolTip": "C:\\Programacao\\tecnicas-II\\lista-p1\\exercicio1\\Multa.cs",
+              "RelativeToolTip": "exercicio1\\Multa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T13:36:15.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programacao\\tecnicas-II\\lista-p1\\exercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "exercicio1\\Program.cs",
+              "ToolTip": "C:\\Programacao\\tecnicas-II\\lista-p1\\exercicio1\\Program.cs",
+              "RelativeToolTip": "exercicio1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T13:36:15.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

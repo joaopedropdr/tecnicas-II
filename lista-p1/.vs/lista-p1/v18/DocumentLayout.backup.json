@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programacao\\tecnicas-II\\lista-p1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B187D02C-46A0-41CF-AACA-15C27AEDE655}|exercicio1\\exercicio1.csproj|c:\\programacao\\tecnicas-ii\\lista-p1\\exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B187D02C-46A0-41CF-AACA-15C27AEDE655}|exercicio1\\exercicio1.csproj|solutionrelative:exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B187D02C-46A0-41CF-AACA-15C27AEDE655}|exercicio1\\exercicio1.csproj|c:\\programacao\\tecnicas-ii\\lista-p1\\exercicio1\\centraldemultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B187D02C-46A0-41CF-AACA-15C27AEDE655}|exercicio1\\exercicio1.csproj|solutionrelative:exercicio1\\centraldemultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B187D02C-46A0-41CF-AACA-15C27AEDE655}|exercicio1\\exercicio1.csproj|c:\\programacao\\tecnicas-ii\\lista-p1\\exercicio1\\multaseventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B187D02C-46A0-41CF-AACA-15C27AEDE655}|exercicio1\\exercicio1.csproj|solutionrelative:exercicio1\\multaseventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B187D02C-46A0-41CF-AACA-15C27AEDE655}|exercicio1\\exercicio1.csproj|c:\\programacao\\tecnicas-ii\\lista-p1\\exercicio1\\multa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B187D02C-46A0-41CF-AACA-15C27AEDE655}|exercicio1\\exercicio1.csproj|solutionrelative:exercicio1\\multa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94A8704-C8D5-4376-9A44-7D1D4CDA3D62}|teste\\teste.csproj|c:\\programacao\\tecnicas-ii\\lista-p1\\teste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94A8704-C8D5-4376-9A44-7D1D4CDA3D62}|teste\\teste.csproj|solutionrelative:teste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MultasEventArgs.cs",
+              "DocumentMoniker": "C:\\Programacao\\tecnicas-II\\lista-p1\\exercicio1\\MultasEventArgs.cs",
+              "RelativeDocumentMoniker": "exercicio1\\MultasEventArgs.cs",
+              "ToolTip": "C:\\Programacao\\tecnicas-II\\lista-p1\\exercicio1\\MultasEventArgs.cs",
+              "RelativeToolTip": "exercicio1\\MultasEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T02:30:24.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programacao\\tecnicas-II\\lista-p1\\teste\\Program.cs",
+              "RelativeDocumentMoniker": "teste\\Program.cs",
+              "ToolTip": "C:\\Programacao\\tecnicas-II\\lista-p1\\teste\\Program.cs",
+              "RelativeToolTip": "teste\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T02:05:56.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CentralDeMultas.cs",
+              "DocumentMoniker": "C:\\Programacao\\tecnicas-II\\lista-p1\\exercicio1\\CentralDeMultas.cs",
+              "RelativeDocumentMoniker": "exercicio1\\CentralDeMultas.cs",
+              "ToolTip": "C:\\Programacao\\tecnicas-II\\lista-p1\\exercicio1\\CentralDeMultas.cs",
+              "RelativeToolTip": "exercicio1\\CentralDeMultas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T13:36:15.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Multa.cs",
+              "DocumentMoniker": "C:\\Programacao\\tecnicas-II\\lista-p1\\exercicio1\\Multa.cs",
+              "RelativeDocumentMoniker": "exercicio1\\Multa.cs",
+              "ToolTip": "C:\\Programacao\\tecnicas-II\\lista-p1\\exercicio1\\Multa.cs",
+              "RelativeToolTip": "exercicio1\\Multa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T13:36:15.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programacao\\tecnicas-II\\lista-p1\\exercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "exercicio1\\Program.cs",
+              "ToolTip": "C:\\Programacao\\tecnicas-II\\lista-p1\\exercicio1\\Program.cs",
+              "RelativeToolTip": "exercicio1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T13:36:15.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

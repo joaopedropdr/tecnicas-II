@@ -1,0 +1,15 @@
+C:\Programação\tecnicas-II\lista-p1\teste\bin\Debug\net9.0\teste.exe
+C:\Programação\tecnicas-II\lista-p1\teste\bin\Debug\net9.0\teste.deps.json
+C:\Programação\tecnicas-II\lista-p1\teste\bin\Debug\net9.0\teste.runtimeconfig.json
+C:\Programação\tecnicas-II\lista-p1\teste\bin\Debug\net9.0\teste.dll
+C:\Programação\tecnicas-II\lista-p1\teste\bin\Debug\net9.0\teste.pdb
+C:\Programação\tecnicas-II\lista-p1\teste\obj\Debug\net9.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\tecnicas-II\lista-p1\teste\obj\Debug\net9.0\teste.AssemblyInfoInputs.cache
+C:\Programação\tecnicas-II\lista-p1\teste\obj\Debug\net9.0\teste.AssemblyInfo.cs
+C:\Programação\tecnicas-II\lista-p1\teste\obj\Debug\net9.0\teste.csproj.CoreCompileInputs.cache
+C:\Programação\tecnicas-II\lista-p1\teste\obj\Debug\net9.0\teste.sourcelink.json
+C:\Programação\tecnicas-II\lista-p1\teste\obj\Debug\net9.0\teste.dll
+C:\Programação\tecnicas-II\lista-p1\teste\obj\Debug\net9.0\refint\teste.dll
+C:\Programação\tecnicas-II\lista-p1\teste\obj\Debug\net9.0\teste.pdb
+C:\Programação\tecnicas-II\lista-p1\teste\obj\Debug\net9.0\teste.genruntimeconfig.cache
+C:\Programação\tecnicas-II\lista-p1\teste\obj\Debug\net9.0\ref\teste.dll

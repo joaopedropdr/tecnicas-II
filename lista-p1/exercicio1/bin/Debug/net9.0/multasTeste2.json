@@ -1,0 +1,14 @@
+[
+  {
+    "Placa": "ABC1234",
+    "TipoInfracao": "Excesso de velocidade",
+    "Valor": 501,
+    "Data": "2026-05-03T23:24:54.2332377-03:00"
+  },
+  {
+    "Placa": "XYZ5678",
+    "TipoInfracao": "Estacionamento proibido",
+    "Valor": 200,
+    "Data": "2026-05-03T23:24:54.2370849-03:00"
+  }
+]

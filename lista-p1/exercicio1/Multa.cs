@@ -8,6 +8,7 @@ namespace exercicio1
 {
     public class Multa
     {
+        public Multa() { }
         public string? Placa { get; set; }
         public string? TipoInfracao { get; set; }
         public double Valor { get; set; }
