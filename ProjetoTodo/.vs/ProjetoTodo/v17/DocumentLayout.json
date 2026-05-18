@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\tecnicas-II\\ProjetoTodo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74E4A3A5-6F09-400E-B551-F69EEE43897A}|TodoApi\\TodoApi.csproj|c:\\tecnicas-ii\\projetotodo\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E4A3A5-6F09-400E-B551-F69EEE43897A}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E4A3A5-6F09-400E-B551-F69EEE43897A}|TodoApi\\TodoApi.csproj|c:\\tecnicas-ii\\projetotodo\\todoapi\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E4A3A5-6F09-400E-B551-F69EEE43897A}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E4A3A5-6F09-400E-B551-F69EEE43897A}|TodoApi\\TodoApi.csproj|c:\\tecnicas-ii\\projetotodo\\todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74E4A3A5-6F09-400E-B551-F69EEE43897A}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E4A3A5-6F09-400E-B551-F69EEE43897A}|TodoApi\\TodoApi.csproj|c:\\tecnicas-ii\\projetotodo\\todoapi\\repositories\\tarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E4A3A5-6F09-400E-B551-F69EEE43897A}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\repositories\\tarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E4A3A5-6F09-400E-B551-F69EEE43897A}|TodoApi\\TodoApi.csproj|c:\\tecnicas-ii\\projetotodo\\todoapi\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E4A3A5-6F09-400E-B551-F69EEE43897A}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\tecnicas-II\\ProjetoTodo\\TodoApi\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Program.cs",
+              "ToolTip": "C:\\tecnicas-II\\ProjetoTodo\\TodoApi\\Program.cs",
+              "RelativeToolTip": "TodoApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T13:40:52.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\tecnicas-II\\ProjetoTodo\\TodoApi\\appsettings.json",
+              "RelativeDocumentMoniker": "TodoApi\\appsettings.json",
+              "ToolTip": "C:\\tecnicas-II\\ProjetoTodo\\TodoApi\\appsettings.json",
+              "RelativeToolTip": "TodoApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-18T13:38:25.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TarefaRepository.cs",
+              "DocumentMoniker": "C:\\tecnicas-II\\ProjetoTodo\\TodoApi\\Repositories\\TarefaRepository.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Repositories\\TarefaRepository.cs",
+              "ToolTip": "C:\\tecnicas-II\\ProjetoTodo\\TodoApi\\Repositories\\TarefaRepository.cs",
+              "RelativeToolTip": "TodoApi\\Repositories\\TarefaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T12:46:22.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "C:\\tecnicas-II\\ProjetoTodo\\TodoApi\\Models\\Tarefa.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Models\\Tarefa.cs",
+              "ToolTip": "C:\\tecnicas-II\\ProjetoTodo\\TodoApi\\Models\\Tarefa.cs",
+              "RelativeToolTip": "TodoApi\\Models\\Tarefa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T12:44:40.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TarefasController.cs",
+              "DocumentMoniker": "C:\\tecnicas-II\\ProjetoTodo\\TodoApi\\Controllers\\TarefasController.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Controllers\\TarefasController.cs",
+              "ToolTip": "C:\\tecnicas-II\\ProjetoTodo\\TodoApi\\Controllers\\TarefasController.cs",
+              "RelativeToolTip": "TodoApi\\Controllers\\TarefasController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T12:44:15.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
